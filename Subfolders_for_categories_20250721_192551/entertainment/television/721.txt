@@ -1,0 +1,10 @@
+Text:
+Brookside creator's Channel 4 bid The creator of defunct TV soap Brookside has written to the culture minister to offer to buy Channel 4. Phil Redmond, now chairman of Mersey TV, told Tessa Jowell he would run it with its current remit intact for the next 10 years. But media watchdog Ofcom has said the the commercially funded public service broadcaster will not be privatised. A spokesman for the Department for Culture, Media and Sport said there were no plans to sell the channel. He added that primary legislation would be required for the station to be sold off, which the government was not intending to introduce. Brookside was axed in 2003 after its ratings slumped from a peak of seven million to just 1.5 million. Redmond also brought teen soap Hollyoaks to Channel 4 and created Grange Hill, the school-based drama serial which was first broadcast on BBC One in 1978. He was awarded the CBE for services to drama earlier this year.
+
+Confidence: 0.9
+
+Named Entities:
+[{'name': 'Phil Redmond', 'job': 'Chairman of Mersey TV'}]
+
+April Events:
+[{'event_date': 'April 2023', 'title': "Phil Redmond's Offer to Buy Channel 4", 'description': 'Phil Redmond, the creator of Brookside, offered to buy Channel 4 and run it with its current remit intact for the next 10 years. However, Ofcom stated that the commercially funded public service broadcaster will not be privatised.'}, {'event_date': 'April 2003', 'title': 'Cancellation of Brookside', 'description': 'Brookside was axed in 2003 after a significant drop in ratings from seven million to 1.5 million.'}, {'event_date': 'April 1978', 'title': 'Grange Hill Creation', 'description': 'Phil Redmond created Grange Hill, the school-based drama serial, which was first broadcast on BBC One in 1978.'}, {'event_date': 'April 2023', 'title': 'Phil Redmond Awarded CBE', 'description': 'Phil Redmond was awarded the CBE for services to drama earlier this year.'}]

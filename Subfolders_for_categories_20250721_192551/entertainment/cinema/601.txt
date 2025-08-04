@@ -1,0 +1,10 @@
+Text:
+Wine comedy wins critics' award Quirky comedy Sideways was named the best film of the year by the Los Angeles Film Critics Association. The US movie also picked up four other accolades including best director for Alexander Payne and supporting actor for Thomas Haden Church. British actress Imelda Staunton has again been recognised for her role in Vera Drake, winning best actress, while Liam Neeson won best actor for Kinsey. The awards will be handed out on 13 January at a ceremony in Las Vegas. Sideways tells the story of two men who take a road trip through California's wine regions and also stars Paul Giamatti. Virginia Madsen was also named best supporting actress for her performance in the film. House of Flying Daggers, directed by Yimou Zhang, was named best foreign language film, while the animation award went to The Incredibles. Unusually, the runners-up in categories were also named with Clint Eastwood's Million Dollar Baby just missing out on the best film award. The best director runner-up was Martin Scorsese for The Aviator. A career achievement award will be handed to veteran actor and comic Jerry Lewis at the ceremony next year.
+
+Confidence: 0.95
+
+Named Entities:
+[{'name': 'Alexander Payne', 'job': 'Director'}, {'name': 'Thomas Haden Church', 'job': 'Supporting Actor'}, {'name': 'Imelda Staunton', 'job': 'Actress'}, {'name': 'Liam Neeson', 'job': 'Actor'}, {'name': 'Virginia Madsen', 'job': 'Supporting Actress'}, {'name': 'Paul Giamatti', 'job': 'Actor'}, {'name': 'Yimou Zhang', 'job': 'Director'}, {'name': 'Clint Eastwood', 'job': 'Director'}, {'name': 'Martin Scorsese', 'job': 'Director'}, {'name': 'Jerry Lewis', 'job': 'Actor'}]
+
+April Events:
+[{'event_date': '13 January', 'title': 'Los Angeles Film Critics Association Awards', 'description': 'Sideways wins best film of the year, Alexander Payne wins best director, Thomas Haden Church wins supporting actor, Imelda Staunton wins best actress, Liam Neeson wins best actor, Virginia Madsen wins best supporting actress'}]

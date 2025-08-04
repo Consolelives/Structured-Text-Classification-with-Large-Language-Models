@@ -1,0 +1,12 @@
+Text:
+Tindall wants second opinion England centre Mike Tindall is to seek a second opinion before having surgery on a foot injury that could force him to miss the entire Six Nations. The Bath player was already out of the opener against Wales on 5 February because of a hand problem. "Mike had a specialist review on a fracture in his right mid foot," said England doctor Simon Kemp. "Before a final decision is made on surgery... medical teams have decided he should see a second specialist." England coach Andy Robinson is already without centre Will Greenwood and flanker Richard Hill while fly-half Jonny Wilkinson is certain to miss at least the first two games. Robinson is expected to announce his new-look England line-up on Monday for the match at the Millennium Stadium. And Newcastle's 18-year-old centre Mathew Tait is set to stand in for Tindall alongside club team-mate Jamie Noon. Meanwhile, Tindall is targeting a return to action before the end of the regular Zurich Premiership season on 30 April. He will also aim to be back to full fitness before the Lions tour to New Zealand this summer.
+
+Business:  
+Sports: other
+Entertainment:  
+
+Named Entities:
+[{'name': 'Mike Tindall', 'job': 'Rugby Player'}, {'name': 'Simon Kemp', 'job': 'Doctor'}, {'name': 'Andy Robinson', 'job': 'Coach'}, {'name': 'Will Greenwood', 'job': 'Centre'}, {'name': 'Richard Hill', 'job': 'Flanker'}, {'name': 'Jonny Wilkinson', 'job': 'Fly-half'}, {'name': 'Mathew Tait', 'job': 'Centre'}, {'name': 'Jamie Noon', 'job': 'Club Team-mate'}]
+
+April Events:
+[{'event_date': '30 April', 'title': 'Return to Action', 'description': 'Mike Tindall targets a return to action before the end of the regular Zurich Premiership season on 30 April.'}]

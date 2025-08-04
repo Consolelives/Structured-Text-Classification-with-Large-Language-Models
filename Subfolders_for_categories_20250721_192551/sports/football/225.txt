@@ -1,0 +1,10 @@
+Text:
+Hereford 1-1 Doncaster Hereford win 3-1 on penalties. Rovers took the lead on 59 minutes as Michael McIndoe's corner found Adriano Rigoglioso, whose stunning volley soared into the top right of the net. Danny Williams equalised for the hosts after 72 minutes with a crisp finish from just insist the penalty box. McIndoe saw an extra-time penalty saved, giving Mills the chance to net the winning penalty. Mawson, Travis, Mkandawire, James, Robinson, Daniel Williams, Stanley, Hyde (Pitman 105), Purdie (Mills 83), Brown, Stansfield (Green 102). Subs Not Used: Smith, Scott. James. Daniel Williams 72. Ingham, Mulligan, Fenton, Morley, Priet (Ryan 79), McIndoe, Ravenhill (Price 90), Rigoglioso, Tierney (Jackson 79), Beardsley, Coppinger. Subs Not Used: Warrington, Maloney. Rigoglioso 59. 1,375 T Parkes (W Midlands).
+
+Confidence: 0.9
+
+Named Entities:
+[{'name': 'Michael McIndoe', 'job': 'Footballer'}, {'name': 'Adriano Rigoglioso', 'job': 'Footballer'}, {'name': 'Danny Williams', 'job': 'Footballer'}, {'name': 'Mills', 'job': 'Footballer'}, {'name': 'Mawson', 'job': 'Footballer'}, {'name': 'Travis', 'job': 'Footballer'}, {'name': 'Mkandawire', 'job': 'Footballer'}, {'name': 'James', 'job': 'Footballer'}, {'name': 'Robinson', 'job': 'Footballer'}, {'name': 'Stanley', 'job': 'Footballer'}, {'name': 'Hyde', 'job': 'Footballer'}, {'name': 'Purdie', 'job': 'Footballer'}, {'name': 'Brown', 'job': 'Footballer'}, {'name': 'Stansfield', 'job': 'Footballer'}, {'name': 'Smith', 'job': 'Footballer'}, {'name': 'Scott', 'job': 'Footballer'}, {'name': 'Ingham', 'job': 'Footballer'}, {'name': 'Mulligan', 'job': 'Footballer'}, {'name': 'Fenton', 'job': 'Footballer'}, {'name': 'Morley', 'job': 'Footballer'}, {'name': 'Priet', 'job': 'Footballer'}, {'name': 'Ryan', 'job': 'Footballer'}, {'name': 'Ravenhill', 'job': 'Footballer'}, {'name': 'Price', 'job': 'Footballer'}, {'name': 'Tierney', 'job': 'Footballer'}, {'name': 'Jackson', 'job': 'Footballer'}, {'name': 'Beardsley', 'job': 'Footballer'}, {'name': 'Coppinger', 'job': 'Footballer'}]
+
+April Events:
+[]

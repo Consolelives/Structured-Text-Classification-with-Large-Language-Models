@@ -1,0 +1,10 @@
+Text:
+Cage film's third week at US top Nicolas Cage movie National Treasure has topped the US and Canada box office for the third week in a row. National Treasure made $17.1m (£8.8m) in ticket sales from Friday to Sunday, according to studio estimates, taking its total to $110.2m (£56.7m). Comedy Christmas with the Kranks, starring Tim Allen and Jamie Lee Curtis, was in second place. The Polar Express entered in third place while Jude Law film Closer made its debut at number six. Oliver Stone's big-budget epic Alexander, starring Colin Farrell, followed last week's disappointing sixth-place opening with a slump to seventh place and takings of $4.7m (£2.4m). Critics have savaged the three-hour epic, which reportedly cost $150m (£77m) to make. National Treasure, which sees Cage's character Ben Gates chase a hidden fortune, has been made by Disney Studios. It is Cage's fourth collaboration with Jerry Bruckheimer, who is usually noted for his male-orientated action films.
+
+Confidence: 0.9
+
+Named Entities:
+[{'name': 'Nicolas Cage', 'job': 'Actor'}, {'name': 'Tim Allen', 'job': 'Actor'}, {'name': 'Jamie Lee Curtis', 'job': 'Actor'}, {'name': 'Jude Law', 'job': 'Actor'}, {'name': 'Colin Farrell', 'job': 'Actor'}, {'name': 'Jerry Bruckheimer', 'job': 'Producer'}, {'name': 'Oliver Stone', 'job': 'Director'}]
+
+April Events:
+[{'event_date': 'Third week', 'title': 'National Treasure Tops US Box Office', 'description': 'National Treasure, starring Nicolas Cage, maintained its top position at the US and Canada box office for the third consecutive week, grossing $17.1m in ticket sales and reaching a total of $110.2m. The film, produced by Disney Studios and directed by Jerry Bruckheimer, follows the character Ben Gates in pursuit of a hidden fortune.'}, {'event_date': 'April', 'title': 'Closer Movie Debut', 'description': 'Jude Law film Closer made its debut at number six in the box office rankings.'}, {'event_date': 'April', 'title': 'Alexander Movie Performance', 'description': "Oliver Stone's film Alexander, featuring Colin Farrell, dropped to seventh place with earnings of $4.7m, facing criticism despite its high production cost of $150m."}]

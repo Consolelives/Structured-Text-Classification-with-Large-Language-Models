@@ -1,0 +1,10 @@
+Text:
+Johnny and Denise lose Passport Johnny Vaughan and Denise Van Outen's Saturday night entertainment show Passport to Paradise will not return to screens, the BBC has said. The ex-Big Breakfast presenters were recruited to host the BBC One family variety show last July. "There are currently no plans for another series," a spokeswoman said. She added the pair "brought a real warmth to Saturday night, but in the end we felt we had done enough with the format of the show". Passport to Paradise involved a combination of games and outside broadcasts with a high level of audience participation. The first instalment attracted more than 4.1 million viewers - but that had dropped to fewer than 2.7 million by the time it ended. The BBC spokeswoman said Graham Norton's Strictly Dance Fever would be a priority for 2005. "That's very much on the cards for next year, and we're concentrating at the moment on Strictly Come Dancing, which is doing phenomenally well," she said.
+
+Confidence: 0.9
+
+Named Entities:
+[{'name': 'Johnny Vaughan', 'job': 'Presenter'}, {'name': 'Denise Van Outen', 'job': 'Presenter'}, {'name': 'Graham Norton', 'job': 'Presenter'}]
+
+April Events:
+[{'event_date': 'April 2005', 'title': 'Passport to Paradise Show Cancellation', 'description': "The BBC announced the cancellation of the Saturday night entertainment show 'Passport to Paradise' hosted by Johnny Vaughan and Denise Van Outen. The show will not return for another series as the BBC felt they had done enough with the format."}, {'event_date': 'April 2005', 'title': 'Focus on Strictly Dance Fever', 'description': "The BBC spokeswoman mentioned that Graham Norton's 'Strictly Dance Fever' would be a priority for 2005, with plans for the show in the upcoming year. Currently, the focus is on 'Strictly Come Dancing' which is performing exceptionally well."}]

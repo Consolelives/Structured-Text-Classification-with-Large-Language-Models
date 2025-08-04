@@ -1,0 +1,10 @@
+Text:
+Rusedski forced out in Marseille Greg Rusedski was forced to withdraw from the Open 13 in Marseille on Thursday with a rib injury. The British number two had been scheduled to play qualifier Sebastien de Chaunac, who beat world number five Guillermo Coria 6-4 7-5 in round one. But Rusedski was unable to take to the court because of a problem with the left-hand side of his rib-cage. American Taylor Dent caused a shock with a 7-6 6-2 victory over second seed David Nalbandian. But third seed Joachim Johansson made it through after beating Frenchman Gilles Simon 7-6 6-3 while in the first match of the day, sixth seed Feliciano Lopez defeated Ivo Karlovic. There were also wins for Slovakia's Karol Beck and Croatian duo Ivan Ljubicic and Mario Ancic.
+
+Confidence: 0.9
+
+Named Entities:
+[{'name': 'Greg Rusedski', 'job': 'Tennis Player'}, {'name': 'Sebastien de Chaunac', 'job': 'Qualifier'}, {'name': 'Guillermo Coria', 'job': 'Tennis Player'}, {'name': 'Taylor Dent', 'job': 'Tennis Player'}, {'name': 'David Nalbandian', 'job': 'Tennis Player'}, {'name': 'Joachim Johansson', 'job': 'Tennis Player'}, {'name': 'Gilles Simon', 'job': 'Tennis Player'}, {'name': 'Feliciano Lopez', 'job': 'Tennis Player'}, {'name': 'Ivo Karlovic', 'job': 'Tennis Player'}, {'name': 'Karol Beck', 'job': 'Tennis Player'}, {'name': 'Ivan Ljubicic', 'job': 'Tennis Player'}, {'name': 'Mario Ancic', 'job': 'Tennis Player'}]
+
+April Events:
+[{'event_date': 'Thursday', 'title': 'Open 13 in Marseille', 'description': 'Greg Rusedski forced to withdraw due to a rib injury. Sebastien de Chaunac defeated Guillermo Coria. Taylor Dent defeated David Nalbandian. Joachim Johansson won against Gilles Simon. Feliciano Lopez beat Ivo Karlovic. Karol Beck, Ivan Ljubicic, and Mario Ancic also secured wins.'}]

@@ -1,0 +1,10 @@
+Text:
+Hewitt falls to Dent Lleyton Hewitt suffered a shock defeat to Taylor Dent in the quarter-finals of the Australian Hardcourt Championships in Adelaide on Friday. The top seed was a strong favourite for the title but went down 7-6 (7-4) 6-3 to the American. Dent will face Juan Ignacio Chela next after the fourth seed was too strong for Jurgen Melzer. Olivier Rochus beat third seed Nicolas Kiefer 6-7 (4-7) 7-6 (8-6) 7-5 and will take on second seed Joachim Johansson. The Swede reached the last four by beating compatriot Thomas Enqvist 6-3 4-6 6-1. "I felt like I was striking the ball much better," said Johansson. "I felt like I had a lot of break chances, I didn't take care of them all, but I broke him four times and he only broke me once. "I felt that was the key to get up in the set early."
+
+Confidence: 0.9
+
+Named Entities:
+[{'name': 'Lleyton Hewitt', 'job': 'Tennis Player'}, {'name': 'Taylor Dent', 'job': 'Tennis Player'}, {'name': 'Juan Ignacio Chela', 'job': 'Tennis Player'}, {'name': 'Jurgen Melzer', 'job': 'Tennis Player'}, {'name': 'Olivier Rochus', 'job': 'Tennis Player'}, {'name': 'Nicolas Kiefer', 'job': 'Tennis Player'}, {'name': 'Joachim Johansson', 'job': 'Tennis Player'}, {'name': 'Thomas Enqvist', 'job': 'Tennis Player'}]
+
+April Events:
+[{'event_date': 'Friday', 'title': 'Australian Hardcourt Championships Quarter-finals', 'description': 'Lleyton Hewitt lost to Taylor Dent in a shock defeat.'}, {'event_date': 'Friday', 'title': 'Australian Hardcourt Championships Quarter-finals', 'description': 'Juan Ignacio Chela defeated Jurgen Melzer.'}, {'event_date': 'Friday', 'title': 'Australian Hardcourt Championships Quarter-finals', 'description': 'Olivier Rochus beat Nicolas Kiefer.'}, {'event_date': 'Friday', 'title': 'Australian Hardcourt Championships Quarter-finals', 'description': 'Joachim Johansson advanced to the semi-finals by beating Thomas Enqvist.'}]
