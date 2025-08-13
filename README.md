@@ -1,19 +1,37 @@
-# Structured Text Classification with Large Language Models (News-Structurizer)
-## Overview
+# News-Structurizer: Structured Text Classification with LLMs
 
-This project leverages large language models (LLMs) to classify BBC news articles into detailed subcategories within **Business**, **Sports**, and **Entertainment**. It also extracts named entities with their job titles and summarizes events that occur **strictly in April**. The output is returned as structured JSON for easy downstream integration.
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-### Key Features
-- **Multi-label Classification**: Tags articles under business, sports, and entertainment subcategories.
-- **Named Entity Extraction**: Identifies full names and **free-text** job titles.
-- **Event Summarization**: Includes **only** April events. Ignores all others.
-- **Confidence Scores**: Scored from 0 to 1 based on certainty of classification.
+Classify BBC news articles into detailed subcategories for **Business**, **Sports**, and **Entertainment**, while extracting named entities, job titles, and **April-only events**. Outputs structured JSON for seamless downstream integration.
 
-All tasks are executed using OpenAI's GPT models guided by a robust system prompt for consistent and precise output.
+---
+
+## Table of Contents
+
+- [Key Features](#key-features)  
+- [Environment Setup](#environment-setup)  
+- [Dataset Information](#dataset-information)  
+- [Project Details](#project-details)  
+- [System Prompts](#system-prompts)  
+- [Model Evaluation](#model-evaluation)  
+- [Code Structure](#code-structure)  
+- [Usage Instructions](#usage-instructions)  
+- [Notes](#notes)  
+
+---
+
+## Key Features
+
+- **Multi-label Classification**: Categorize articles into business, sports, and entertainment subcategories.  
+- **Named Entity Extraction**: Capture full names and **free-text job titles**.  
+- **April-Only Event Summaries**: Include only events occurring in **April**.  
+- **Confidence Scoring**: Scores from 0 to 1 for classification certainty.  
+- **Structured JSON Output**: Ready for pipelines or databases.  
+
+---
 
 ## Environment Setup
-
-The environment is defined in `environment.yml`. To get started:
 
 ```bash
 conda env create -f environment.yml
@@ -25,7 +43,7 @@ conda activate llms
 
 ## Dataset Information
 
-This project uses the [BBC News article dataset](http://mlg.ucd.ie/datasets/bbc.html), a benchmark collection for text classification research.
+This project uses the [BBC News article dataset](http://mlg.ucd.ie/datasets/bbc.html)
 
 > D. Greene and P. Cunningham.  
 > "Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering",  
@@ -52,8 +70,6 @@ This project uses the [BBC News article dataset](http://mlg.ucd.ie/datasets/bbc.
 - Strict April filtering
 - Confidence adjustment
 - Strict JSON output structure
-
-The third prompt gave the **best results** and was used for final evaluation.
 
 ## Final System Prompt
 You are an AI assistant designed to analyze text data and classify it according to specific categories related to business, sports, and entertainment.
@@ -94,8 +110,7 @@ Important notes:
 
 - **GPT-4o-mini** is the most cost-effective.
 - **GPT-4o** had perfect recall and captured **all April events**.
-- All models performed strongly in named entity and job title extraction.
-- Average classification confidence: **~90%** across all models.
+- Average classification confidence: **~90%**.
 
 ## Code Structure
 
