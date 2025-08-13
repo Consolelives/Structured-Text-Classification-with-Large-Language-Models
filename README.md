@@ -138,4 +138,22 @@ All core logic is handled inside `bbc.py`.
 - **Confidence scores** help rank results and support downstream filtering or manual review.
 - Cost estimates are based on current OpenAI pricing.
 
+🌍 Why This Matters
 
+Manual tagging and event extraction from news articles is slow and prone to errors. This project automates the process with AI, making it:
+    -  Faster – Processes hundreds of articles in minutes.
+    - More accurate – LLMs handle multi-label classification, named entity extraction, and event filtering reliably.
+    - Structured & ready for integration – Outputs JSON suitable for downstream applications.
+
+Keywords: NLP, LLMs, GPT, Text Classification, Named Entity Recognition, Event Summarization, JSON Output, BBC News Dataset
+
+📬 Contact
+
+I can customize this text classification and extraction pipeline to your datasets, news sources, or specific labeling needs.
+
+📧 Email: olalekanoyeleye@yahoo.com
+🔗 LinkedIn: https://www.linkedin.com/in/olalekanoyeleye/
+
+🙌 Acknowledgements
+    - OpenAI – GPT models
+    - Python Libraries: Pandas, Pydantic, Enum, JupyterLab
