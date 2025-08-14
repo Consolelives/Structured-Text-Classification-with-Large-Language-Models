@@ -115,8 +115,6 @@ Important notes:
 ## Code Structure
 
 - **bbc.py**: Modularized logic for classification, extraction, JSON formatting, and evaluation.
-- **Enums**: Used to enforce strict subcategories for consistency.
-- **Pydantic Models**: Validate output structure (e.g., confidence, events, named entities).
 - **Run_BBC_Process.ipynb**: Interactive notebook that executes the complete classification and extraction pipeline.
 
 ## Usage Instructions
